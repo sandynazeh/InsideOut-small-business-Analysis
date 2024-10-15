@@ -1,0 +1,736 @@
+Customer_ID,Gender,Location
+1,Female ,Cairo 
+2,Female ,Cairo 
+3,Female ,Cairo 
+4,Female ,Cairo 
+5,Male,Cairo 
+6,Female ,Cairo 
+7,Female ,Cairo 
+8,Female ,Cairo 
+9,Female ,Cairo 
+10,Female ,Cairo 
+11,Female ,Cairo 
+12,Female ,Cairo 
+13,Female ,Cairo 
+14,Female ,Sharqia 
+15,Female ,Cairo 
+16,Female ,Cairo 
+17,Female ,Alexandria
+18,Female ,Cairo
+19,Female ,Cairo
+20,Female ,Cairo
+21,Female ,Cairo
+22,Female ,Cairo
+23,Female ,Giza
+24,Female ,Giza
+25,Female ,Giza
+26,Female ,Giza
+27,Female ,Cairo
+28,Female ,Cairo
+29,Female ,Giza
+30,Female ,Giza
+31,Female ,Giza
+32,Female ,Giza
+33,Female ,Cairo
+34,Female ,Cairo
+35,Female ,Cairo
+36,Female ,Cairo
+37,Female ,Cairo
+38,Female ,Cairo
+39,Female ,Asiut
+40,Female ,Alexandria
+41,Female ,Cairo
+42,Female ,Cairo
+43,Male,Giza
+44,Female ,Sharqia
+45,Female ,Cairo
+46,Female ,Menofia
+47,Female ,Cairo
+48,Female ,Cairo
+49,Female ,Cairo
+50,Male,Cairo
+51,Female ,Kafr Elsheikh
+52,Female ,Cairo
+53,Female ,Ismaielia
+54,Female ,Cairo
+55,Female ,Cairo
+56,Female ,Cairo
+57,Female ,Cairo
+58,Female ,Cairo
+59,Female ,Dakahlia
+60,Female ,Cairo
+61,Male,Cairo
+62,Male,Cairo
+63,Female ,Cairo
+64,Female ,Giza
+65,Female ,Cairo
+66,Female ,Giza
+67,Female ,Giza
+68,Female ,Giza
+69,Female ,Gharbia
+70,Female ,Cairo
+71,Female ,Cairo
+72,Female ,Cairo
+73,Female ,Cairo
+74,Female ,Alexandria
+75,Female ,Cairo
+76,Female ,Mansoura
+77,Male,Sohag
+78,Female ,Cairo
+79,Female ,Cairo
+80,Female ,Gharbia
+81,Female ,Cairo
+82,Female ,Cairo
+83,Female ,Cairo
+84,Female ,Cairo
+85,Female ,Cairo
+86,Female ,Menofia
+87,Female ,Cairo
+88,Female ,Cairo
+89,Female ,Cairo
+90,Male,Cairo
+91,Female ,Cairo
+92,Female ,Cairo
+93,Female ,Cairo
+94,Female ,Cairo
+95,Female ,Cairo
+96,Female ,Cairo
+97,Male,Giza
+98,Female ,Behera 
+99,Female ,Menofia
+100,Male,Giza
+101,Male,Cairo
+102,Male,Alexandria
+103,Female ,Giza
+104,Male,Giza
+105,Female ,Cairo
+106,Female ,Cairo
+107,Male,Beni Suef
+108,Male,Cairo
+109,Female ,Cairo
+110,Female ,Gharbia
+111,Female ,Menofia
+112,Female ,Dakahlia
+113,Female ,Cairo
+114,Female ,Cairo
+115,Male,Cairo
+116,Female ,Cairo
+117,Female ,Sohag
+118,Female ,Cairo
+119,Female ,Cairo
+120,Female ,Cairo
+121,Female ,Cairo
+122,Female ,Menofia
+123,Female ,Cairo
+124,Female ,Cairo
+125,Female ,Cairo
+126,Female ,Cairo
+127,Female ,Cairo
+128,Female ,Cairo
+129,Female ,Cairo
+130,Female ,Cairo
+131,Female ,Kafr Elsheikh
+132,Female ,Cairo
+133,Female ,Cairo
+134,Female ,Gharbia
+135,Female ,Asiut
+136,Female ,Gharbia
+137,Female ,Cairo
+138,Female ,Cairo
+139,Female ,Gharbia
+140,Female ,Giza
+141,Female ,Cairo
+142,Female ,Cairo
+143,Female ,Giza
+144,Female ,Cairo
+145,Female ,Cairo
+146,Female ,Cairo
+147,Male,Cairo
+148,Female ,Cairo
+149,Female ,Cairo
+150,Female ,Cairo
+151,Female ,Qena
+152,Female ,Cairo
+153,Female ,Giza
+154,Male,Cairo
+155,Female ,Cairo
+156,Male,Cairo
+157,Female ,Giza
+158,Female ,cairo
+159,Female ,cairo
+160,Female ,cairo
+161,Female ,Giza
+162,Female ,Asiut
+163,Female ,Cairo
+164,Female ,Cairo
+165,Female ,Qalyubia
+166,Female ,Port Said
+167,Female ,Sohag
+168,Female ,Ismaielia
+169,Male,Cairo
+170,Female ,Cairo
+171,Female ,Cairo
+172,Female ,Giza
+173,Female ,Cairo
+174,Female ,Cairo
+175,Female ,Giza
+176,Female ,Qalyubia
+177,Female ,Suez
+178,Female ,Giza
+179,Female ,Giza
+180,Female ,Qalyubia
+181,Female ,Gharbia
+182,Female ,Fayom
+183,Female ,Minia 
+184,Female ,Giza
+185,Female ,Sharqia
+186,Female ,Cairo
+187,Female ,Menofia
+188,Female ,Giza
+189,Female ,Cairo
+190,Female ,Cairo
+191,Female ,Alexandria
+192,Female ,Giza
+193,Female ,Cairo
+194,Female ,Cairo
+195,Female ,Alexandria
+196,Female ,Ismaielia
+197,Female ,Cairo
+198,Female ,Giza
+199,Female ,Cairo
+200,Female ,Cairo
+201,Female ,Cairo
+202,Female ,Cairo
+203,Female ,Cairo
+204,Female ,Cairo
+205,Female ,Cairo
+206,Female ,Giza
+207,Female ,Cairo
+208,Female ,Menofia
+209,Female ,Cairo
+210,Male,Giza
+211,Female ,Giza
+212,Female ,Giza
+213,Female ,Qalyubia
+214,Female ,Menofia
+215,Female ,Cairo
+216,Female ,Giza
+217,Female ,Giza
+218,Female ,Beni Suef
+219,Female ,Alexandria
+220,Female ,Cairo
+221,Female ,Fayom
+222,Female ,Qalyubia
+223,Female ,Giza
+224,Male,Giza
+225,Female ,Giza
+226,Female ,Cairo
+227,Female ,Cairo
+228,Female ,Cairo
+229,Female ,Sharqia
+230,Female ,Menofia
+231,Female ,Qalyubia
+232,Female ,Behera 
+233,Female ,Alexandria
+234,Female ,Giza
+235,Female ,Cairo
+236,Female ,Behera 
+237,Female ,Dakahlia
+238,Female ,Alexandria
+239,Female ,Giza
+240,Female ,Menofia
+241,Female ,Minia 
+242,Female ,Cairo 
+243,Female ,Alexandria
+244,Female ,Cairo 
+245,Female ,Giza
+246,Female ,Cairo
+247,Female ,Giza
+248,Female ,Giza
+249,Female ,Cairo
+250,Female ,Cairo
+251,Female ,Qalyubia
+252,Female ,Alexandria
+253,Female ,Cairo
+254,Female ,Cairo
+255,Female ,Giza
+256,Female ,Giza
+257,Female ,Alexandria
+258,Female ,Alexandria
+259,Female ,Cairo
+260,Female ,Red sea
+261,Female ,Cairo
+262,Female ,Cairo
+263,Female ,Cairo
+264,Female ,Cairo
+265,Female ,Giza
+266,Female ,Cairo
+267,Male,Giza
+268,Female ,Cairo
+269,Female ,Cairo
+270,Female ,Sharqia
+271,Female ,Giza
+272,Female ,Qalyubia
+273,Male,Giza
+274,Female ,Cairo
+275,Female,Cairo 
+276,Female,Qalyubia
+277,Female,Cairo 
+278,Female,Cairo 
+279,Female,Cairo 
+280,Female,Asiut
+281,Female,Cairo 
+282,Female,Asiut
+283,Female,Giza
+284,Female,Giza
+285,Female,Giza
+286,Female,Giza
+287,Female,Minia
+288,Female,Cairo 
+289,Male,Cairo 
+290,Male,Minia
+291,Female,Cairo 
+292,Female,Giza
+293,Female,Red sea
+294,Female,Aswan
+295,Female,Giza
+296,Female,Giza
+297,Female,Alexandria
+298,Female,Kafr Elsheikh
+299,Male,Sharm Elsheikh 
+300,Female,Dakahlia
+301,Female,Giza
+302,Female,Giza
+303,Female,Giza
+304,Female,Asiut
+305,Female,Cairo 
+306,Female,Gharbia 
+307,Female,Cairo 
+308,Female,Cairo 
+309,Male,Qalyubia
+310,Female,Cairo 
+311,Female,Asiut
+312,Male,Giza
+313,Female,Qena
+314,Female,Giza
+315,Female,Giza
+316,Male,Giza
+317,Female,Giza
+318,Male,Port Said
+319,Female,Alexandria
+320,Female,Cairo 
+321,Female,Sohag
+322,Female,Cairo 
+323,Female,Cairo 
+324,Female,Giza
+325,Female,Cairo 
+326,Female,Ismaielia
+327,Female,Cairo 
+328,Female,Sharqia
+329,Female,Qalyubia
+330,Female,Cairo 
+331,Female,Cairo 
+332,Female,Sharqia
+333,Female,Dakahlia
+334,Female,Giza
+335,Female,Cairo 
+336,Female,Giza
+337,Female,Giza
+338,Female,Gharbia 
+339,Male,Fayom
+340,Female,Giza
+341,Female,Cairo 
+342,Female,Cairo 
+343,Female,Cairo 
+344,Male,Qalyubia
+345,Female,Cairo 
+346,Female,Cairo 
+347,Male,Cairo 
+348,Male,Sharqia
+349,Female,Cairo 
+350,Female,Dakahlia
+351,Female,Menofia
+352,Female,Dakahlia
+353,Female,Cairo 
+354,Female,Behera
+355,Female,Cairo 
+356,Female,Menofia
+357,Female,Alexandria
+358,Female,Cairo 
+359,Male,Alexandria
+360,Female,Alexandria
+361,Female,Giza
+362,Female,Cairo
+363,Female,Qalyubia
+364,Female,Giza
+365,Female,Dakahlia
+366,Female,Kafr Elsheikh
+367,Female,Ismaielia
+368,Female,Giza
+369,Female,Cairo
+370,Female,Giza
+371,Female,Dakahlia
+372,Female,Giza
+373,Female,Giza
+374,Female,Qalyubia
+375,Female,Giza
+376,Female,Cairo
+377,Female,Alexandria
+378,Female,Giza
+379,Female,Alexandria
+380,Female,Alexandria
+381,Female,Giza
+382,Female,Cairo 
+383,Female,Cairo
+384,Female,Cairo 
+385,Female,Cairo
+386,Female,Qalyubia
+387,Female,Cairo
+388,Female,Cairo
+389,Female,Giza
+390,Female,Cairo
+391,Female,Giza
+392,Female,Alexandria
+393,Female,Cairo
+394,Female,Giza
+395,Female,Cairo
+396,Female,Dakahlia
+397,Female,Cairo
+398,Female,Giza
+399,Female,Giza
+400,Female,Cairo
+401,Female,Alexandria
+402,Female,Giza
+403,Female,Dakahlia
+404,Female,Cairo
+405,Female,Cairo
+406,Male,Cairo
+407,Female,Cairo 
+408,Female,Cairo
+409,Female,Cairo
+410,Female,Cairo
+411,Male,Cairo
+412,Female,Cairo
+413,Female,Alexandria
+414,Female,Beni Suef
+415,Female,Cairo
+416,Female,Menofia
+417,Female,Giza
+418,Female,Giza
+419,Female,Giza
+420,Female,Giza
+421,Female,Alexandria
+422,Female,Gharbia 
+423,Female,Alexandria
+424,Female,Giza
+425,Female,Qalyubia
+426,Female,Dakahlia
+427,Male,Dakahlia
+428,Female,Cairo
+429,Female,Cairo
+430,Female,Qena
+431,Female,Cairo
+432,Female,Cairo
+433,Female,Alexandria
+434,Female,Cairo
+435,Female,Kafr Elsheikh
+436,Female,Sharqia
+437,Female,Cairo
+438,Female,Cairo
+439,Female,Cairo
+440,Female,Demiatte
+441,Female,Kafr Elsheikh
+442,Female,Cairo
+443,Female,Dakahlia
+444,Female,Red sea
+445,Female,Dakahlia
+446,Female,Sharqia
+447,Female,Gharbia 
+448,Female,Cairo
+449,Female,Cairo
+450,Female,Cairo
+451,Female,Alexandria
+452,Female,Cairo
+453,Female,Giza
+454,Female,Cairo
+455,Female,Cairo
+456,Female,Giza
+457,Female,Gharbia 
+458,Female,Giza
+459,Female,Cairo
+460,Female,Demiatte
+461,Female,Cairo
+462,Female,Cairo
+463,Female,Cairo
+464,Male,Dakahlia
+465,Female,Dakahlia
+466,Female,Sharqia
+467,Female,Cairo
+468,Female,Cairo
+469,Female,Menofia
+470,Female,Giza
+471,Female,Cairo
+472,Male,Ismaielia
+473,Female,Giza
+474,Female,Fayom
+475,Female,Cairo
+476,Male,Kafr Elsheikh
+477,Female,Sharm Elsheikh 
+478,Female,Giza
+479,Female,Cairo
+480,Female,Cairo
+481,Female,Cairo
+482,Female,Cairo
+483,Female,Cairo
+484,Female,Giza
+485,Female,Cairo
+486,Female,Cairo
+487,Female,Cairo
+488,Female,Cairo
+489,Female,Cairo
+490,Female,Cairo
+491,Female,Menofia
+492,Female,Giza
+493,Female,Giza
+494,Female,Cairo
+495,Female,Cairo
+496,Female,Alexandria
+497,Female,Cairo
+498,Female,Cairo
+499,Female,Cairo
+500,Female,Suez
+501,Female,Giza
+502,Female,Cairo
+503,Female,Giza
+504,Female,Minia
+505,Male,Minia
+506,Female,Dakahlia
+507,Female,behera
+508,Female,Cairo
+509,Female,Qalyubia
+510,Female,Demiatte
+511,Female,Cairo
+512,Female,Alexandria
+513,Female,Giza
+514,Female,Cairo
+515,Female,Cairo
+516,Female,Sohag
+517,Female,Gharbia 
+518,Female,Giza
+519,Female,Gharbia
+520,Female,Alexandria
+521,Female,Cairo
+522,Female,Alexandria
+523,Female,Cairo
+524,Female,Cairo
+525,Female,Qalyubia
+526,Female,Cairo
+527,Female,Cairo
+528,Female,Giza
+529,Female,Giza
+530,Male,Qalyubia
+531,Male,Giza
+532,Male,Asiut
+533,Female,Behera
+534,Female,Cairo
+535,Female,Suez
+536,Female,Cairo
+537,Female,Behera
+538,Female,Cairo
+539,Female,Alexandria
+540,Female,Giza
+541,Male,Sohag
+542,Female,Red sea
+543,Female,sharqia
+544,Female,Gharbia
+545,Female,Cairo
+546,Female,Cairo
+547,Female,Cairo
+548,Male,Cairo
+549,Female,Cairo
+550,Female,Menofia
+551,Female,Cairo
+552,Female,Cairo
+553,Female,Cairo
+554,Female,Kafr Elsheikh
+555,Male,Cairo
+556,Female,Cairo
+557,Female,Luxor
+558,Female,Giza
+559,Female,Giza
+560,Male,
+561,Female,Sharqia
+562,Female,Giza
+563,Female,Dakahlia
+564,Female,Alexandria
+565,Female,Cairo
+566,Female,Behera
+567,Male,Cairo
+568,Male,Beni Suef
+569,Female,Cairo
+570,Female,Cairo
+571,Female,Cairo
+572,Female,Sharqia
+573,Female,Suez
+574,Female,Alexandria
+575,Female,Cairo
+576,Female,Giza
+577,Female,Cairo
+578,Female,Gharbia
+579,Female,
+580,Female,Giza
+581,Female,Alexandria
+582,Male,
+583,Female,Alexandria
+584,Female,Minia
+585,Female,Cairo
+586,Female,Giza
+587,Female,
+588,Female,Alexandria
+589,Female,Sohag
+590,Female,Cairo
+591,Female,Qalyubia
+592,Female,
+593,Female,
+594,Female,Cairo
+595,Female,Sharqia
+596,Male,
+597,Female,
+598,Female,Menofia
+599,Female,Cairo
+600,Female,Demiatte
+601,Female,Cairo
+602,Female,Cairo
+603,Female,Giza
+604,Female,Cairo
+605,Female,Alexandria
+606,Male,Cairo
+607,Female,Giza
+608,Female,Cairo
+609,Female,Giza
+610,Female,Sharqia
+611,Female,Qalyubia
+612,Female,Cairo
+613,Female,Alexandria
+614,Female,Giza
+615,Female,Alexandria
+616,Female,Cairo
+617,Female,Cairo
+618,Female,
+619,Female,Cairo
+620,Female,
+621,Female,Cairo
+622,Female,Cairo
+623,Female,Cairo
+624,Female,Sharqia
+625,Female,Giza
+626,Female,Alexandria
+627,Female,Cairo
+628,Female,Cairo
+629,Female,Menofia
+630,Female,Cairo
+631,Female,Cairo
+632,Female,Cairo
+633,Female,Cairo
+634,Female,Minia
+635,Female,
+636,Female,
+637,Female,Giza
+638,Female,Giza
+639,Female,Cairo
+640,Female,Cairo
+641,Female,Giza
+642,Female,Cairo
+643,Female,Cairo
+644,Female,Sharqia
+645,Female,Cairo
+646,Male,Qena
+647,Female,Cairo
+648,Female,Cairo
+649,Female,Sharqia
+650,Female,Alexandria
+651,Female,Cairo
+652,Female,Dakahlia
+653,Female,Cairo
+654,Male,Dakahlia
+655,Female,Fayom
+656,Female,Cairo
+657,Male,Cairo
+658,Female,Cairo
+659,Female,Asiut
+660,Female,Cairo
+661,Female,Giza
+662,Female,Cairo
+663,Female,Gharbia
+664,Female,Dakahlia
+665,Female,Sharqia
+666,Female,Cairo
+667,Female,Port Said
+668,Female,Qalyubia
+669,Female,Alexandria
+670,Female,Behera
+671,Female,Dakahlia
+672,Female,Cairo
+673,Female,Cairo
+674,Female,Giza
+675,Male,Giza
+676,Female,Cairo
+677,Female,Qalyubia
+678,Female,Giza
+679,Female,Dakahlia
+680,Female,Qena
+681,Female,Sharqia
+682,Male,Minia
+683,Female,Cairo
+684,Female,Giza
+685,Female,Cairo
+686,Female,Suez
+687,Female,Dakahlia
+688,Female,Giza
+689,Female,Cairo
+690,Female,Cairo
+691,Female,Cairo
+692,Female,Menofia
+693,Female,Cairo
+694,Female,Menofia
+695,Female,Cairo
+696,Female,Dakahlia
+697,Male,cairo
+698,Female,Gharbia
+699,Female,Cairo
+700,Female,Gharbia 
+701,Male,Qalyubia
+702,Female,Cairo
+703,Female,Cairo
+704,Female,Behera
+705,Female,Cairo
+706,Female ,Wady Elgded
+707,Male,Beni Suef
+708,Female ,Gharbia
+709,Female ,Demiatte
+710,Female ,Gharbia
+711,Female ,Menofia
+712,Female ,Cairo
+713,Female ,Cairo
+714,Male,Cairo
+715,Female ,Cairo
+716,Female ,Minia
+717,Female ,Cairo
+718,Female ,Behera
+719,Female ,Menofia
+720,Female ,Aswan
+721,Male,Sharqia
+722,Female ,Sharqia
+723,Female ,Cairo
+724,Female ,Dakahlia
+725,Female ,Cairo
+726,Female ,Demiatte
+727,Female ,Cairo
+728,Female ,Cairo
+729,Female ,Luxor
+730,Female ,Cairo
+731,Female ,Giza
+732,Female ,Dakahlia
+733,Female ,Alexandria
+734,Female ,Gharbia
+735,Female ,Dakahlia
